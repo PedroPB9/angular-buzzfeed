@@ -1,0 +1,61 @@
+{
+  "title":"Which SpiderMan protagonist would you be ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "How would you describe yourself ?",
+      "options":[
+        {"id": 1, "name":"Funny person, but very childish every now and then", "alias":"T"},
+        {"id": 2, "name":"Someone who tries to act cool, but is actually very shy", "alias":"G"},
+        {"id": 3, "name":"Someone who doesn't like to give up on anything", "alias":"M"},
+        {"id": 4, "name":"Someone who's made quite a few mistakes, but always try to improve", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Who'd you save first ?",
+      "options":[
+        {"id": 1, "name":"Grilfriend", "alias":"G"},
+        {"id": 2, "name":"Everyone I could", "alias":"B"},
+        {"id": 3, "name":"I don't know", "alias":"T"},
+        {"id": 4, "name":"Everyone, literally everyone", "alias":"M"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "What's the number one thing you worry about when facing something really tough to beat ?",
+      "options":[
+        {"id": 1, "name":"Play mind games by telling witty jokes", "alias":"M"},
+        {"id": 2, "name":"I mock my opponent, but I frquently find out the best solution", "alias":"G"},
+        {"id": 3, "name":"I try to be persuasive while distracting my opponent but I'm actually freaking out", "alias":"T"},
+        {"id": 4, "name":"Try to figure out the best way to beat it", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "What's your primary goal ?",
+      "options":[
+        {"id": 1, "name":"Balance my career and spend some quality time with the one I love", "alias":"G"},
+        {"id": 2, "name":"If anything, I'm lost", "alias":"T"},
+        {"id": 3, "name":"Love, family and helping people", "alias":"B"},
+        {"id": 4, "name":"Try to not give up on anything I love", "alias":"M"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "What would be the nickname that best defines you ?",
+      "options":[
+        {"id": 1, "name":"Brat", "alias":"T"},
+        {"id": 2, "name":"Tiger", "alias":"B"},
+        {"id": 3, "name":"Crybaby", "alias":"G"},
+        {"id": 4, "name":"Rebel", "alias":"M"}
+      ]
+    }
+  ],
+  "results":{
+    "T": ["You'd be Tom Holland's SpiderMan version!", "assets/imgs/tom-holland-spider-man-4.webp"],
+    "B": ["You'd be Tobey Maguire's SpiderMan version", "assets/imgs/MCDSPID_EC136.webp"],
+    "M": ["You'd be Miles Morales!", "assets/imgs/homem-aranha-3-sem-volta-para-casa-andrew-garfield-redencao.jpg"],
+    "G": ["You'd be Andrew Garfield's SpiderMan version!","assets/imgs/6098962edd260c49d52d4b2b58d4df0b62-13-miles-morales-lede.rsocial.w1200.webp"]
+  }
+}
